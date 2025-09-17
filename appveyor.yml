@@ -10,7 +10,7 @@ branches:
 matrix:
   fast_finish: true
 
-# https://www.appveyor.com/docs/build-environment/#build-worker-images
+#  https://www.appveyor.com/docs/build-environment/#build-worker-images
 image: Visual Studio 2022
 
 environment:
